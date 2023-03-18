@@ -8,7 +8,7 @@
 - Astana, Kazakhstan
 
 
-I'm an enthusiastic and detail-oriented **Frontend Software Engineer**, seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects.
+I'm an enthusiastic and detail-oriented **Frontend Software Engineer**, seeking an entry-level position to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects.
 
 
 ## Skills
@@ -29,23 +29,23 @@ I'm an enthusiastic and detail-oriented **Frontend Software Engineer**, seeking 
 ### Nazarbayev University - 2019 / 2023
 #### Reseach Assistant
 
--  Conducted research in the field of computational geomechanics, soil stabilization, and code comparison
--  Published 2 academic articles in Q1 scientific journal
+- Conducted research in the field of computational geomechanics, seismic design, soil stabilization, and code comparison
+- Published 4 academic articles in Q1 scientific journals
 - Supervised research group of bachelor students
 
 
 ### Sberbank - 2021 
 #### Product Manager Intern
 
-- Understanding and representing user needs
-- Monitoring the market and developing competitive analyses
-- Generation of new product ideas
+- Understood and represented user needs
+- Monitored the market and developed competitive analyses
+- Generated new product ideas
 
 ### BTS Digital - 2021
 #### Product Manager Intern
 
-- Determining the stakeholders involved, both internal and external
-- Monitoring the market and developing competitive analyses
+- Determined the stakeholders involved, both internal and external
+- Monitored the market and developed competitive analyses
 - Product design
 
 
@@ -62,3 +62,21 @@ I'm an enthusiastic and detail-oriented **Frontend Software Engineer**, seeking 
 
 - Major: Civil Engineering, School of Engineering and Digital Sciences
 - Graduated With Honors
+
+## Certifications
+- Product Design, Prototyping,andTesting - University System of Maryland (2021)
+- ProductManager- Jumysbar (2021)
+- Responsive Web Design- freeCodeCamp.org (2021)
+- WebDesigner: Rapid Start - WAYUP (2021)
+- Programming for Everybody - University of Michigan (2020)
+
+
+## Languages
+- Kazakh
+- Russian
+- English 
+
+
+## References
+
+Available on request.
